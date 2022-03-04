@@ -9,4 +9,4 @@ c0ba1t-coke/c0ba1t-coke is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cokemaniaIIDX)](https://github.com/cokemaniaIIDX/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cokemaniaIIDX&theme=onedark)](https://github.com/cokemaniaIIDX/github-profile-trophy)
